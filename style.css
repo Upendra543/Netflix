@@ -3,9 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
-     width: 1600px;
-}
+
 @font-face {
     font-family:NetflixSans-Bold ;
     src: url("./Assets/Fonts/NetflixSans-Bold.woff2");
